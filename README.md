@@ -1,21 +1,35 @@
-# 12 Hours of Python Challenge
-
-Welcome to my **12 Hours of Python** repository! 
-
-In this challenge, I’ll be learning Python for 12 hours, divided across several days. Each day focuses on specific topics, exercises, and small projects to enhance my understanding of Python programming.
-
-Stay tuned for my progress and feel free to explore the code, projects, and notes shared in this repo.
-
-## Topics Covered
-- Python Fundamentals
-- Control Flow (If/Else and Loops)
-- Functions and Modules
-- Advanced Topics: Data Structures, File Handling, and OOP
-
-## How to Use
-You can check my progress day by day by navigating through the files in this repository.
+Here's the updated version with your requested change:
 
 ---
 
-Feel free to provide feedback or suggestions to help me improve! 😊
-Email - srushti.nalawade@vpt.edu.in
+# 🎮 **Welcome to My GitHub Playground!** 💻  
+
+---
+
+### 🚀 **Current Focus:**  
+I'm on a mission to master Python and sharpen my problem-solving skills. Here's what I'm exploring right now:  
+- 🧩 Deep Dive into Python Collections (Lists, Tuples, Sets, and Dictionaries)  
+- 🔄 Enhancing Skills with Control Flow and Iteration Techniques  
+
+Stay tuned for exciting projects and learning logs as I level up!  
+
+---
+
+### 🎯 **Learning Journey Highlights:**  
+- 🔧 Practical problem-solving exercises  
+- 🧩 Mini-projects showcasing my growth  
+- 📝 Learning milestone logs  
+
+---
+
+### ⚡ **My Programming Toolkit:**  
+- 🛠 **Languages:** Python, C, C++  
+- 📘 **Currently Exploring:** Python  
+- 🎥 **Learning Resource:** 12-Hour YouTube Course  
+
+---
+
+### 🌟 **Let’s Connect and Collaborate:**  
+I'm always excited to team up with fellow tech enthusiasts. Let's code, learn, and grow together!  
+
+Happy Coding! 🚀  
