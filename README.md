@@ -1,4 +1,3 @@
-Here's the updated version with your requested change:
 
 ---
 
