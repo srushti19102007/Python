@@ -1,3 +1,4 @@
+Here’s the updated version with your LinkedIn link added:
 
 ---
 
@@ -38,5 +39,7 @@ Happy Coding! 🚀
 ### 🔗 **Check out my Python projects on GitHub:**  
 [My Python GitHub](https://github.com/srushti19102007/Python)  
 
+---
 
-Happy Coding! 🚀  
+### 🔗 **Let’s Connect on LinkedIn:**  
+[My LinkedIn Profile](https://www.linkedin.com/in/srushti-nalawade-12a8a1301/)
