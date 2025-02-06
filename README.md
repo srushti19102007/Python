@@ -32,3 +32,11 @@ Stay tuned for exciting projects and learning logs as I level up!
 I'm always excited to team up with fellow tech enthusiasts. Let's code, learn, and grow together!  
 
 Happy Coding! 🚀  
+
+---
+
+### 🔗 **Check out my Python projects on GitHub:**  
+[My Python GitHub](https://github.com/srushti19102007/Python)  
+
+
+Happy Coding! 🚀  
